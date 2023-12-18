@@ -1,6 +1,6 @@
-A SIMPLE AND MINIMALIST DESKTOP APP THAT TAKES SCREENSHOTS (PYTHON)
-<br>
-a desktop app that displays a button to take screenshots.
+# A simple and minimalist desktop app to take screenshots
+
+a miniature desktop app that displays a small button to take screenshots.
 the app itself doesn't appear on the screenshot (hidden for 100 milliseconds).
 
 Things you SHOULD customize :
