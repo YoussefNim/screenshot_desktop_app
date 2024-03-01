@@ -1,6 +1,7 @@
 # A simple and minimalist desktop app to take screenshots. #
 
 a miniature desktop app that displays a small button to take screenshots.
+Built in Python, using Tkinter.
 the app itself doesn't appear on the screenshot (hidden for 10 milliseconds).
 
 Things you can customize :
